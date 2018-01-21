@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+.reset-camera {
+    cursor: pointer;
+    border: 1px solid #fff;
+    padding: 4px 10px;
+    margin-top: -5px;
+}
+
+.reset-camera:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+hr {
+    margin: 0;
+    border: 0.5px solid #fff;
+}
+
+.gui {
+    position: absolute;
+    color: #a8e3ff;
+    top: 5px;
+    right: 5px;
+    background-color: #1a1a1a;
+    opacity: 0.7;
+    
+    width: 250px;
+    border: 1px solid #fff;
+}
+
+.gui section {
+    padding: 10px;
+}
